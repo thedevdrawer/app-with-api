@@ -11,4 +11,4 @@ Sample app with API access using SammyJS for routing and Swagger for documentati
 
 ## Important Information
 
-Local server is setup a liveapi.local, if you are using a different local domain, you will need to change this in the /api/documentation/index.php file.
+Local server is setup a liveapi.local, if you are using a different local domain, you will need to change this in the /api/documentation/index.php and the js/app.js and js/init.js files.
