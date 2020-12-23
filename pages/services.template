@@ -1,0 +1,6 @@
+<div class="page">
+<h1></h1>
+<div class="content"></div>
+</div>
+<script src="js/init.js"></script>
+<script> getpage('services'); </script>

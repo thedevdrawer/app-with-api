@@ -1,0 +1,4 @@
+header {background-color:#333}
+nav button, nav a {color:#fff !important;}
+nav ul { padding:0; margin:0; }
+.nav-item a.current { color:#929292 !important;}
